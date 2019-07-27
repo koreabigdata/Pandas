@@ -41,7 +41,7 @@ a.sum(0)
 - shift+tab -> 파라메터에 axis 들어감  
 
 ***axis**  
-axis = 0 : 행끼리 계산
+axis = 0 : 행끼리 계산  
 axis = 1 : 열끼리 계산
 <br>
 
